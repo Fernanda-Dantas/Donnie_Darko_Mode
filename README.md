@@ -11,7 +11,7 @@
 ## Sobre:
  Projeto que fiz utlizando os conhecimentos em HTML, CSS e Javascript.
 
-O objetivo era colocar um pouco mais de personalidade em uma atividade feita em cursos.
+O objetivo era colocar um pouco mais de personalidade e animação em uma atividade feita em curso.
 
 ## Aprendi a recriar a interface do Netflix utilizando as seguintes tecnologias:
 * [HTML5](https://github.com/Fernanda-Dantas/Donnie_Darko_Mode/blob/main/pagina_inicial.html);
